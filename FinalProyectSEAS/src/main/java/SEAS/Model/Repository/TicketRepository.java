@@ -3,9 +3,10 @@ package SEAS.Model.Repository;
 import SEAS.Model.Domain.Ticket;
 import SEAS.Model.shared.FileJsonAdapter;
 
+import java.io.Serializable;
 import java.util.List;
 
-public class TicketRepository {
+public class TicketRepository implements Serializable {
 
     private FileJsonAdapter<Ticket> fileJsonAdapter;
     private String path;

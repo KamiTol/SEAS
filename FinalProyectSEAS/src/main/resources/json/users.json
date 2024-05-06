@@ -1,0 +1,24 @@
+[
+  {
+    "ID": "1",
+    "username": "admin1",
+    "password": "admin",
+    "name": "Admins",
+    "lastName": "Apellido",
+    "phoneNumbers": [
+      "[1234567890",
+      "  9876543210]"
+    ]
+  },
+  {
+    "ID": "2",
+    "username": "admin2",
+    "password": "admin",
+    "name": "Admins2",
+    "lastName": "Apellido",
+    "phoneNumbers": [
+      "[[1234567890",
+      "  9876543210]]"
+    ]
+  }
+]

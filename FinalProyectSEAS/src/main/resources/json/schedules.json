@@ -1,0 +1,32 @@
+[
+  {
+    "id": "2:00AB",
+    "departureDate": "2:00",
+    "route": {
+      "start": "A",
+      "end": "B",
+      "distance": -1,
+      "stations": []
+    }
+  },
+  {
+    "id": "2:00AB",
+    "departureDate": "2:00",
+    "route": {
+      "start": "A",
+      "end": "B",
+      "distance": -1,
+      "stations": []
+    }
+  },
+  {
+    "id": "3:00AB",
+    "departureDate": "3:00",
+    "route": {
+      "start": "A",
+      "end": "B",
+      "distance": -1,
+      "stations": []
+    }
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "id": "1",
+    "passengerId": "Gian",
+    "passengerName": "Gian",
+    "passengerSurname": "Gian",
+    "passengerIdType": "Item 1",
+    "currentAddress": "Gian",
+    "phoneNumber": "1234",
+    "location": "Item 1",
+    "passengerCategory": "Item 2",
+    "fare": 0.0,
+    "contactPerson": "Gian",
+    "luggageInfo": "15"
+  }
+]

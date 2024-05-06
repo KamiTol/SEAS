@@ -1,0 +1,1106 @@
+[
+  {
+    "name": "T1",
+    "id": "TT11714940202128",
+    "loadCapacity": 30,
+    "mileage": 0,
+    "wagon": [
+      {
+        "type": "Passenger",
+        "capacityStandar": 22,
+        "capacityExecutive": 8,
+        "capacityPremium": 4,
+        "capacityCargo": 0
+      },
+      {
+        "type": "Passenger",
+        "capacityStandar": 22,
+        "capacityExecutive": 8,
+        "capacityPremium": 4,
+        "capacityCargo": 0
+      },
+      {
+        "type": "Passenger",
+        "capacityStandar": 22,
+        "capacityExecutive": 8,
+        "capacityPremium": 4,
+        "capacityCargo": 0
+      },
+      {
+        "type": "Passenger",
+        "capacityStandar": 22,
+        "capacityExecutive": 8,
+        "capacityPremium": 4,
+        "capacityCargo": 0
+      },
+      {
+        "type": "Passenger",
+        "capacityStandar": 22,
+        "capacityExecutive": 8,
+        "capacityPremium": 4,
+        "capacityCargo": 0
+      },
+      {
+        "type": "Passenger",
+        "capacityStandar": 22,
+        "capacityExecutive": 8,
+        "capacityPremium": 4,
+        "capacityCargo": 0
+      },
+      {
+        "type": "Passenger",
+        "capacityStandar": 22,
+        "capacityExecutive": 8,
+        "capacityPremium": 4,
+        "capacityCargo": 0
+      },
+      {
+        "type": "Passenger",
+        "capacityStandar": 22,
+        "capacityExecutive": 8,
+        "capacityPremium": 4,
+        "capacityCargo": 0
+      },
+      {
+        "type": "Passenger",
+        "capacityStandar": 22,
+        "capacityExecutive": 8,
+        "capacityPremium": 4,
+        "capacityCargo": 0
+      },
+      {
+        "type": "Passenger",
+        "capacityStandar": 22,
+        "capacityExecutive": 8,
+        "capacityPremium": 4,
+        "capacityCargo": 0
+      },
+      {
+        "type": "Cargo",
+        "capacityStandar": 0,
+        "capacityExecutive": 0,
+        "capacityPremium": 0,
+        "capacityCargo": 80
+      },
+      {
+        "type": "Cargo",
+        "capacityStandar": 0,
+        "capacityExecutive": 0,
+        "capacityPremium": 0,
+        "capacityCargo": 80
+      },
+      {
+        "type": "Cargo",
+        "capacityStandar": 0,
+        "capacityExecutive": 0,
+        "capacityPremium": 0,
+        "capacityCargo": 80
+      },
+      {
+        "type": "Cargo",
+        "capacityStandar": 0,
+        "capacityExecutive": 0,
+        "capacityPremium": 0,
+        "capacityCargo": 80
+      },
+      {
+        "type": "Cargo",
+        "capacityStandar": 0,
+        "capacityExecutive": 0,
+        "capacityPremium": 0,
+        "capacityCargo": 80
+      },
+      {
+        "type": "Cargo",
+        "capacityStandar": 0,
+        "capacityExecutive": 0,
+        "capacityPremium": 0,
+        "capacityCargo": 80
+      },
+      {
+        "type": "Cargo",
+        "capacityStandar": 0,
+        "capacityExecutive": 0,
+        "capacityPremium": 0,
+        "capacityCargo": 80
+      },
+      {
+        "type": "Cargo",
+        "capacityStandar": 0,
+        "capacityExecutive": 0,
+        "capacityPremium": 0,
+        "capacityCargo": 80
+      },
+      {
+        "type": "Cargo",
+        "capacityStandar": 0,
+        "capacityExecutive": 0,
+        "capacityPremium": 0,
+        "capacityCargo": 80
+      },
+      {
+        "type": "Cargo",
+        "capacityStandar": 0,
+        "capacityExecutive": 0,
+        "capacityPremium": 0,
+        "capacityCargo": 80
+      },
+      {
+        "type": "Cargo",
+        "capacityStandar": 0,
+        "capacityExecutive": 0,
+        "capacityPremium": 0,
+        "capacityCargo": 80
+      },
+      {
+        "type": "Cargo",
+        "capacityStandar": 0,
+        "capacityExecutive": 0,
+        "capacityPremium": 0,
+        "capacityCargo": 80
+      },
+      {
+        "type": "Cargo",
+        "capacityStandar": 0,
+        "capacityExecutive": 0,
+        "capacityPremium": 0,
+        "capacityCargo": 80
+      },
+      {
+        "type": "Cargo",
+        "capacityStandar": 0,
+        "capacityExecutive": 0,
+        "capacityPremium": 0,
+        "capacityCargo": 80
+      },
+      {
+        "type": "Cargo",
+        "capacityStandar": 0,
+        "capacityExecutive": 0,
+        "capacityPremium": 0,
+        "capacityCargo": 80
+      },
+      {
+        "type": "Cargo",
+        "capacityStandar": 0,
+        "capacityExecutive": 0,
+        "capacityPremium": 0,
+        "capacityCargo": 80
+      },
+      {
+        "type": "Cargo",
+        "capacityStandar": 0,
+        "capacityExecutive": 0,
+        "capacityPremium": 0,
+        "capacityCargo": 80
+      },
+      {
+        "type": "Cargo",
+        "capacityStandar": 0,
+        "capacityExecutive": 0,
+        "capacityPremium": 0,
+        "capacityCargo": 80
+      },
+      {
+        "type": "Cargo",
+        "capacityStandar": 0,
+        "capacityExecutive": 0,
+        "capacityPremium": 0,
+        "capacityCargo": 80
+      },
+      {
+        "type": "Cargo",
+        "capacityStandar": 0,
+        "capacityExecutive": 0,
+        "capacityPremium": 0,
+        "capacityCargo": 80
+      }
+    ],
+    "type": "ARNOLD"
+  },
+  {
+    "name": "T2",
+    "id": "TT21714940207384",
+    "loadCapacity": 30,
+    "mileage": 0,
+    "wagon": [
+      {
+        "type": "Passenger",
+        "capacityStandar": 22,
+        "capacityExecutive": 8,
+        "capacityPremium": 4,
+        "capacityCargo": 0
+      },
+      {
+        "type": "Passenger",
+        "capacityStandar": 22,
+        "capacityExecutive": 8,
+        "capacityPremium": 4,
+        "capacityCargo": 0
+      },
+      {
+        "type": "Passenger",
+        "capacityStandar": 22,
+        "capacityExecutive": 8,
+        "capacityPremium": 4,
+        "capacityCargo": 0
+      },
+      {
+        "type": "Passenger",
+        "capacityStandar": 22,
+        "capacityExecutive": 8,
+        "capacityPremium": 4,
+        "capacityCargo": 0
+      },
+      {
+        "type": "Passenger",
+        "capacityStandar": 22,
+        "capacityExecutive": 8,
+        "capacityPremium": 4,
+        "capacityCargo": 0
+      },
+      {
+        "type": "Passenger",
+        "capacityStandar": 22,
+        "capacityExecutive": 8,
+        "capacityPremium": 4,
+        "capacityCargo": 0
+      },
+      {
+        "type": "Passenger",
+        "capacityStandar": 22,
+        "capacityExecutive": 8,
+        "capacityPremium": 4,
+        "capacityCargo": 0
+      },
+      {
+        "type": "Passenger",
+        "capacityStandar": 22,
+        "capacityExecutive": 8,
+        "capacityPremium": 4,
+        "capacityCargo": 0
+      },
+      {
+        "type": "Passenger",
+        "capacityStandar": 22,
+        "capacityExecutive": 8,
+        "capacityPremium": 4,
+        "capacityCargo": 0
+      },
+      {
+        "type": "Passenger",
+        "capacityStandar": 22,
+        "capacityExecutive": 8,
+        "capacityPremium": 4,
+        "capacityCargo": 0
+      },
+      {
+        "type": "Cargo",
+        "capacityStandar": 0,
+        "capacityExecutive": 0,
+        "capacityPremium": 0,
+        "capacityCargo": 80
+      },
+      {
+        "type": "Cargo",
+        "capacityStandar": 0,
+        "capacityExecutive": 0,
+        "capacityPremium": 0,
+        "capacityCargo": 80
+      },
+      {
+        "type": "Cargo",
+        "capacityStandar": 0,
+        "capacityExecutive": 0,
+        "capacityPremium": 0,
+        "capacityCargo": 80
+      },
+      {
+        "type": "Cargo",
+        "capacityStandar": 0,
+        "capacityExecutive": 0,
+        "capacityPremium": 0,
+        "capacityCargo": 80
+      },
+      {
+        "type": "Cargo",
+        "capacityStandar": 0,
+        "capacityExecutive": 0,
+        "capacityPremium": 0,
+        "capacityCargo": 80
+      },
+      {
+        "type": "Cargo",
+        "capacityStandar": 0,
+        "capacityExecutive": 0,
+        "capacityPremium": 0,
+        "capacityCargo": 80
+      },
+      {
+        "type": "Cargo",
+        "capacityStandar": 0,
+        "capacityExecutive": 0,
+        "capacityPremium": 0,
+        "capacityCargo": 80
+      },
+      {
+        "type": "Cargo",
+        "capacityStandar": 0,
+        "capacityExecutive": 0,
+        "capacityPremium": 0,
+        "capacityCargo": 80
+      },
+      {
+        "type": "Cargo",
+        "capacityStandar": 0,
+        "capacityExecutive": 0,
+        "capacityPremium": 0,
+        "capacityCargo": 80
+      },
+      {
+        "type": "Cargo",
+        "capacityStandar": 0,
+        "capacityExecutive": 0,
+        "capacityPremium": 0,
+        "capacityCargo": 80
+      },
+      {
+        "type": "Cargo",
+        "capacityStandar": 0,
+        "capacityExecutive": 0,
+        "capacityPremium": 0,
+        "capacityCargo": 80
+      },
+      {
+        "type": "Cargo",
+        "capacityStandar": 0,
+        "capacityExecutive": 0,
+        "capacityPremium": 0,
+        "capacityCargo": 80
+      },
+      {
+        "type": "Cargo",
+        "capacityStandar": 0,
+        "capacityExecutive": 0,
+        "capacityPremium": 0,
+        "capacityCargo": 80
+      },
+      {
+        "type": "Cargo",
+        "capacityStandar": 0,
+        "capacityExecutive": 0,
+        "capacityPremium": 0,
+        "capacityCargo": 80
+      },
+      {
+        "type": "Cargo",
+        "capacityStandar": 0,
+        "capacityExecutive": 0,
+        "capacityPremium": 0,
+        "capacityCargo": 80
+      },
+      {
+        "type": "Cargo",
+        "capacityStandar": 0,
+        "capacityExecutive": 0,
+        "capacityPremium": 0,
+        "capacityCargo": 80
+      },
+      {
+        "type": "Cargo",
+        "capacityStandar": 0,
+        "capacityExecutive": 0,
+        "capacityPremium": 0,
+        "capacityCargo": 80
+      },
+      {
+        "type": "Cargo",
+        "capacityStandar": 0,
+        "capacityExecutive": 0,
+        "capacityPremium": 0,
+        "capacityCargo": 80
+      },
+      {
+        "type": "Cargo",
+        "capacityStandar": 0,
+        "capacityExecutive": 0,
+        "capacityPremium": 0,
+        "capacityCargo": 80
+      },
+      {
+        "type": "Cargo",
+        "capacityStandar": 0,
+        "capacityExecutive": 0,
+        "capacityPremium": 0,
+        "capacityCargo": 80
+      }
+    ],
+    "type": "ARNOLD"
+  },
+  {
+    "name": "T3",
+    "id": "TT31714940210183",
+    "loadCapacity": 30,
+    "mileage": 0,
+    "wagon": [
+      {
+        "type": "Passenger",
+        "capacityStandar": 22,
+        "capacityExecutive": 8,
+        "capacityPremium": 4,
+        "capacityCargo": 0
+      },
+      {
+        "type": "Passenger",
+        "capacityStandar": 22,
+        "capacityExecutive": 8,
+        "capacityPremium": 4,
+        "capacityCargo": 0
+      },
+      {
+        "type": "Passenger",
+        "capacityStandar": 22,
+        "capacityExecutive": 8,
+        "capacityPremium": 4,
+        "capacityCargo": 0
+      },
+      {
+        "type": "Passenger",
+        "capacityStandar": 22,
+        "capacityExecutive": 8,
+        "capacityPremium": 4,
+        "capacityCargo": 0
+      },
+      {
+        "type": "Passenger",
+        "capacityStandar": 22,
+        "capacityExecutive": 8,
+        "capacityPremium": 4,
+        "capacityCargo": 0
+      },
+      {
+        "type": "Passenger",
+        "capacityStandar": 22,
+        "capacityExecutive": 8,
+        "capacityPremium": 4,
+        "capacityCargo": 0
+      },
+      {
+        "type": "Passenger",
+        "capacityStandar": 22,
+        "capacityExecutive": 8,
+        "capacityPremium": 4,
+        "capacityCargo": 0
+      },
+      {
+        "type": "Passenger",
+        "capacityStandar": 22,
+        "capacityExecutive": 8,
+        "capacityPremium": 4,
+        "capacityCargo": 0
+      },
+      {
+        "type": "Passenger",
+        "capacityStandar": 22,
+        "capacityExecutive": 8,
+        "capacityPremium": 4,
+        "capacityCargo": 0
+      },
+      {
+        "type": "Passenger",
+        "capacityStandar": 22,
+        "capacityExecutive": 8,
+        "capacityPremium": 4,
+        "capacityCargo": 0
+      },
+      {
+        "type": "Cargo",
+        "capacityStandar": 0,
+        "capacityExecutive": 0,
+        "capacityPremium": 0,
+        "capacityCargo": 80
+      },
+      {
+        "type": "Cargo",
+        "capacityStandar": 0,
+        "capacityExecutive": 0,
+        "capacityPremium": 0,
+        "capacityCargo": 80
+      },
+      {
+        "type": "Cargo",
+        "capacityStandar": 0,
+        "capacityExecutive": 0,
+        "capacityPremium": 0,
+        "capacityCargo": 80
+      },
+      {
+        "type": "Cargo",
+        "capacityStandar": 0,
+        "capacityExecutive": 0,
+        "capacityPremium": 0,
+        "capacityCargo": 80
+      },
+      {
+        "type": "Cargo",
+        "capacityStandar": 0,
+        "capacityExecutive": 0,
+        "capacityPremium": 0,
+        "capacityCargo": 80
+      },
+      {
+        "type": "Cargo",
+        "capacityStandar": 0,
+        "capacityExecutive": 0,
+        "capacityPremium": 0,
+        "capacityCargo": 80
+      },
+      {
+        "type": "Cargo",
+        "capacityStandar": 0,
+        "capacityExecutive": 0,
+        "capacityPremium": 0,
+        "capacityCargo": 80
+      },
+      {
+        "type": "Cargo",
+        "capacityStandar": 0,
+        "capacityExecutive": 0,
+        "capacityPremium": 0,
+        "capacityCargo": 80
+      },
+      {
+        "type": "Cargo",
+        "capacityStandar": 0,
+        "capacityExecutive": 0,
+        "capacityPremium": 0,
+        "capacityCargo": 80
+      },
+      {
+        "type": "Cargo",
+        "capacityStandar": 0,
+        "capacityExecutive": 0,
+        "capacityPremium": 0,
+        "capacityCargo": 80
+      },
+      {
+        "type": "Cargo",
+        "capacityStandar": 0,
+        "capacityExecutive": 0,
+        "capacityPremium": 0,
+        "capacityCargo": 80
+      },
+      {
+        "type": "Cargo",
+        "capacityStandar": 0,
+        "capacityExecutive": 0,
+        "capacityPremium": 0,
+        "capacityCargo": 80
+      },
+      {
+        "type": "Cargo",
+        "capacityStandar": 0,
+        "capacityExecutive": 0,
+        "capacityPremium": 0,
+        "capacityCargo": 80
+      },
+      {
+        "type": "Cargo",
+        "capacityStandar": 0,
+        "capacityExecutive": 0,
+        "capacityPremium": 0,
+        "capacityCargo": 80
+      },
+      {
+        "type": "Cargo",
+        "capacityStandar": 0,
+        "capacityExecutive": 0,
+        "capacityPremium": 0,
+        "capacityCargo": 80
+      },
+      {
+        "type": "Cargo",
+        "capacityStandar": 0,
+        "capacityExecutive": 0,
+        "capacityPremium": 0,
+        "capacityCargo": 80
+      },
+      {
+        "type": "Cargo",
+        "capacityStandar": 0,
+        "capacityExecutive": 0,
+        "capacityPremium": 0,
+        "capacityCargo": 80
+      },
+      {
+        "type": "Cargo",
+        "capacityStandar": 0,
+        "capacityExecutive": 0,
+        "capacityPremium": 0,
+        "capacityCargo": 80
+      },
+      {
+        "type": "Cargo",
+        "capacityStandar": 0,
+        "capacityExecutive": 0,
+        "capacityPremium": 0,
+        "capacityCargo": 80
+      },
+      {
+        "type": "Cargo",
+        "capacityStandar": 0,
+        "capacityExecutive": 0,
+        "capacityPremium": 0,
+        "capacityCargo": 80
+      }
+    ],
+    "type": "ARNOLD"
+  },
+  {
+    "name": "T4",
+    "id": "TT41714940214615",
+    "loadCapacity": 20,
+    "mileage": 0,
+    "wagon": [
+      {
+        "type": "Passenger",
+        "capacityStandar": 22,
+        "capacityExecutive": 8,
+        "capacityPremium": 4,
+        "capacityCargo": 0
+      },
+      {
+        "type": "Passenger",
+        "capacityStandar": 22,
+        "capacityExecutive": 8,
+        "capacityPremium": 4,
+        "capacityCargo": 0
+      },
+      {
+        "type": "Passenger",
+        "capacityStandar": 22,
+        "capacityExecutive": 8,
+        "capacityPremium": 4,
+        "capacityCargo": 0
+      },
+      {
+        "type": "Passenger",
+        "capacityStandar": 22,
+        "capacityExecutive": 8,
+        "capacityPremium": 4,
+        "capacityCargo": 0
+      },
+      {
+        "type": "Passenger",
+        "capacityStandar": 22,
+        "capacityExecutive": 8,
+        "capacityPremium": 4,
+        "capacityCargo": 0
+      },
+      {
+        "type": "Passenger",
+        "capacityStandar": 22,
+        "capacityExecutive": 8,
+        "capacityPremium": 4,
+        "capacityCargo": 0
+      },
+      {
+        "type": "Cargo",
+        "capacityStandar": 0,
+        "capacityExecutive": 0,
+        "capacityPremium": 0,
+        "capacityCargo": 80
+      },
+      {
+        "type": "Cargo",
+        "capacityStandar": 0,
+        "capacityExecutive": 0,
+        "capacityPremium": 0,
+        "capacityCargo": 80
+      },
+      {
+        "type": "Cargo",
+        "capacityStandar": 0,
+        "capacityExecutive": 0,
+        "capacityPremium": 0,
+        "capacityCargo": 80
+      },
+      {
+        "type": "Cargo",
+        "capacityStandar": 0,
+        "capacityExecutive": 0,
+        "capacityPremium": 0,
+        "capacityCargo": 80
+      },
+      {
+        "type": "Cargo",
+        "capacityStandar": 0,
+        "capacityExecutive": 0,
+        "capacityPremium": 0,
+        "capacityCargo": 80
+      },
+      {
+        "type": "Cargo",
+        "capacityStandar": 0,
+        "capacityExecutive": 0,
+        "capacityPremium": 0,
+        "capacityCargo": 80
+      },
+      {
+        "type": "Cargo",
+        "capacityStandar": 0,
+        "capacityExecutive": 0,
+        "capacityPremium": 0,
+        "capacityCargo": 80
+      },
+      {
+        "type": "Cargo",
+        "capacityStandar": 0,
+        "capacityExecutive": 0,
+        "capacityPremium": 0,
+        "capacityCargo": 80
+      },
+      {
+        "type": "Cargo",
+        "capacityStandar": 0,
+        "capacityExecutive": 0,
+        "capacityPremium": 0,
+        "capacityCargo": 80
+      },
+      {
+        "type": "Cargo",
+        "capacityStandar": 0,
+        "capacityExecutive": 0,
+        "capacityPremium": 0,
+        "capacityCargo": 80
+      },
+      {
+        "type": "Cargo",
+        "capacityStandar": 0,
+        "capacityExecutive": 0,
+        "capacityPremium": 0,
+        "capacityCargo": 80
+      },
+      {
+        "type": "Cargo",
+        "capacityStandar": 0,
+        "capacityExecutive": 0,
+        "capacityPremium": 0,
+        "capacityCargo": 80
+      },
+      {
+        "type": "Cargo",
+        "capacityStandar": 0,
+        "capacityExecutive": 0,
+        "capacityPremium": 0,
+        "capacityCargo": 80
+      },
+      {
+        "type": "Cargo",
+        "capacityStandar": 0,
+        "capacityExecutive": 0,
+        "capacityPremium": 0,
+        "capacityCargo": 80
+      }
+    ],
+    "type": "ARNOLD"
+  },
+  {
+    "name": "T5",
+    "id": "TT51714940218840",
+    "loadCapacity": 20,
+    "mileage": 0,
+    "wagon": [
+      {
+        "type": "Passenger",
+        "capacityStandar": 22,
+        "capacityExecutive": 8,
+        "capacityPremium": 4,
+        "capacityCargo": 0
+      },
+      {
+        "type": "Passenger",
+        "capacityStandar": 22,
+        "capacityExecutive": 8,
+        "capacityPremium": 4,
+        "capacityCargo": 0
+      },
+      {
+        "type": "Passenger",
+        "capacityStandar": 22,
+        "capacityExecutive": 8,
+        "capacityPremium": 4,
+        "capacityCargo": 0
+      },
+      {
+        "type": "Passenger",
+        "capacityStandar": 22,
+        "capacityExecutive": 8,
+        "capacityPremium": 4,
+        "capacityCargo": 0
+      },
+      {
+        "type": "Passenger",
+        "capacityStandar": 22,
+        "capacityExecutive": 8,
+        "capacityPremium": 4,
+        "capacityCargo": 0
+      },
+      {
+        "type": "Passenger",
+        "capacityStandar": 22,
+        "capacityExecutive": 8,
+        "capacityPremium": 4,
+        "capacityCargo": 0
+      },
+      {
+        "type": "Cargo",
+        "capacityStandar": 0,
+        "capacityExecutive": 0,
+        "capacityPremium": 0,
+        "capacityCargo": 80
+      },
+      {
+        "type": "Cargo",
+        "capacityStandar": 0,
+        "capacityExecutive": 0,
+        "capacityPremium": 0,
+        "capacityCargo": 80
+      },
+      {
+        "type": "Cargo",
+        "capacityStandar": 0,
+        "capacityExecutive": 0,
+        "capacityPremium": 0,
+        "capacityCargo": 80
+      },
+      {
+        "type": "Cargo",
+        "capacityStandar": 0,
+        "capacityExecutive": 0,
+        "capacityPremium": 0,
+        "capacityCargo": 80
+      },
+      {
+        "type": "Cargo",
+        "capacityStandar": 0,
+        "capacityExecutive": 0,
+        "capacityPremium": 0,
+        "capacityCargo": 80
+      },
+      {
+        "type": "Cargo",
+        "capacityStandar": 0,
+        "capacityExecutive": 0,
+        "capacityPremium": 0,
+        "capacityCargo": 80
+      },
+      {
+        "type": "Cargo",
+        "capacityStandar": 0,
+        "capacityExecutive": 0,
+        "capacityPremium": 0,
+        "capacityCargo": 80
+      },
+      {
+        "type": "Cargo",
+        "capacityStandar": 0,
+        "capacityExecutive": 0,
+        "capacityPremium": 0,
+        "capacityCargo": 80
+      },
+      {
+        "type": "Cargo",
+        "capacityStandar": 0,
+        "capacityExecutive": 0,
+        "capacityPremium": 0,
+        "capacityCargo": 80
+      },
+      {
+        "type": "Cargo",
+        "capacityStandar": 0,
+        "capacityExecutive": 0,
+        "capacityPremium": 0,
+        "capacityCargo": 80
+      },
+      {
+        "type": "Cargo",
+        "capacityStandar": 0,
+        "capacityExecutive": 0,
+        "capacityPremium": 0,
+        "capacityCargo": 80
+      },
+      {
+        "type": "Cargo",
+        "capacityStandar": 0,
+        "capacityExecutive": 0,
+        "capacityPremium": 0,
+        "capacityCargo": 80
+      },
+      {
+        "type": "Cargo",
+        "capacityStandar": 0,
+        "capacityExecutive": 0,
+        "capacityPremium": 0,
+        "capacityCargo": 80
+      },
+      {
+        "type": "Cargo",
+        "capacityStandar": 0,
+        "capacityExecutive": 0,
+        "capacityPremium": 0,
+        "capacityCargo": 80
+      }
+    ],
+    "type": "ARNOLD"
+  },
+  {
+    "name": "T6",
+    "id": "TT61714940222952",
+    "loadCapacity": 20,
+    "mileage": 0,
+    "wagon": [
+      {
+        "type": "Passenger",
+        "capacityStandar": 22,
+        "capacityExecutive": 8,
+        "capacityPremium": 4,
+        "capacityCargo": 0
+      },
+      {
+        "type": "Passenger",
+        "capacityStandar": 22,
+        "capacityExecutive": 8,
+        "capacityPremium": 4,
+        "capacityCargo": 0
+      },
+      {
+        "type": "Passenger",
+        "capacityStandar": 22,
+        "capacityExecutive": 8,
+        "capacityPremium": 4,
+        "capacityCargo": 0
+      },
+      {
+        "type": "Passenger",
+        "capacityStandar": 22,
+        "capacityExecutive": 8,
+        "capacityPremium": 4,
+        "capacityCargo": 0
+      },
+      {
+        "type": "Passenger",
+        "capacityStandar": 22,
+        "capacityExecutive": 8,
+        "capacityPremium": 4,
+        "capacityCargo": 0
+      },
+      {
+        "type": "Passenger",
+        "capacityStandar": 22,
+        "capacityExecutive": 8,
+        "capacityPremium": 4,
+        "capacityCargo": 0
+      },
+      {
+        "type": "Cargo",
+        "capacityStandar": 0,
+        "capacityExecutive": 0,
+        "capacityPremium": 0,
+        "capacityCargo": 80
+      },
+      {
+        "type": "Cargo",
+        "capacityStandar": 0,
+        "capacityExecutive": 0,
+        "capacityPremium": 0,
+        "capacityCargo": 80
+      },
+      {
+        "type": "Cargo",
+        "capacityStandar": 0,
+        "capacityExecutive": 0,
+        "capacityPremium": 0,
+        "capacityCargo": 80
+      },
+      {
+        "type": "Cargo",
+        "capacityStandar": 0,
+        "capacityExecutive": 0,
+        "capacityPremium": 0,
+        "capacityCargo": 80
+      },
+      {
+        "type": "Cargo",
+        "capacityStandar": 0,
+        "capacityExecutive": 0,
+        "capacityPremium": 0,
+        "capacityCargo": 80
+      },
+      {
+        "type": "Cargo",
+        "capacityStandar": 0,
+        "capacityExecutive": 0,
+        "capacityPremium": 0,
+        "capacityCargo": 80
+      },
+      {
+        "type": "Cargo",
+        "capacityStandar": 0,
+        "capacityExecutive": 0,
+        "capacityPremium": 0,
+        "capacityCargo": 80
+      },
+      {
+        "type": "Cargo",
+        "capacityStandar": 0,
+        "capacityExecutive": 0,
+        "capacityPremium": 0,
+        "capacityCargo": 80
+      },
+      {
+        "type": "Cargo",
+        "capacityStandar": 0,
+        "capacityExecutive": 0,
+        "capacityPremium": 0,
+        "capacityCargo": 80
+      },
+      {
+        "type": "Cargo",
+        "capacityStandar": 0,
+        "capacityExecutive": 0,
+        "capacityPremium": 0,
+        "capacityCargo": 80
+      },
+      {
+        "type": "Cargo",
+        "capacityStandar": 0,
+        "capacityExecutive": 0,
+        "capacityPremium": 0,
+        "capacityCargo": 80
+      },
+      {
+        "type": "Cargo",
+        "capacityStandar": 0,
+        "capacityExecutive": 0,
+        "capacityPremium": 0,
+        "capacityCargo": 80
+      },
+      {
+        "type": "Cargo",
+        "capacityStandar": 0,
+        "capacityExecutive": 0,
+        "capacityPremium": 0,
+        "capacityCargo": 80
+      },
+      {
+        "type": "Cargo",
+        "capacityStandar": 0,
+        "capacityExecutive": 0,
+        "capacityPremium": 0,
+        "capacityCargo": 80
+      }
+    ],
+    "type": "ARNOLD"
+  }
+]

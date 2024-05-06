@@ -4,18 +4,66 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c8663b5b-e1e5-4e0a-95a7-f30e7ea0a491" name="Changes" comment="" />
+    <list default="true" id="c8663b5b-e1e5-4e0a-95a7-f30e7ea0a491" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/SEAS/Controller/BuyController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SEAS/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SEAS/Model/BuyModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SEAS/Model/Domain/Baggage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SEAS/Model/Domain/Graph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SEAS/Model/Domain/Passenger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SEAS/Model/Domain/Route.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SEAS/Model/Domain/Schedule.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SEAS/Model/Domain/Station.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SEAS/Model/Domain/Ticket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SEAS/Model/Domain/Train.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SEAS/Model/Domain/TrainType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SEAS/Model/Domain/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SEAS/Model/Domain/Wagon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SEAS/View/BuyView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TicketValidator/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TicketValidator/src/main/java/SEAS/Controller/ValidatorController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TicketValidator/src/main/java/SEAS/Model/Domain/Baggage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TicketValidator/src/main/java/SEAS/Model/Domain/Graph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TicketValidator/src/main/java/SEAS/Model/Domain/Passenger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TicketValidator/src/main/java/SEAS/Model/Domain/Route.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TicketValidator/src/main/java/SEAS/Model/Domain/Schedule.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TicketValidator/src/main/java/SEAS/Model/Domain/Station.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TicketValidator/src/main/java/SEAS/Model/Domain/Ticket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TicketValidator/src/main/java/SEAS/Model/Domain/Train.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TicketValidator/src/main/java/SEAS/Model/Domain/TrainType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TicketValidator/src/main/java/SEAS/Model/Domain/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TicketValidator/src/main/java/SEAS/Model/Domain/Wagon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TicketValidator/src/main/java/SEAS/Model/Service/ModuleServiceInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TicketValidator/src/main/java/SEAS/Model/ValidatorModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TicketValidator/src/main/java/SEAS/View/ValidatorView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FinalProyectSEAS/src/main/resources/json/schedules.json" beforeDir="false" afterPath="$PROJECT_DIR$/../FinalProyectSEAS/src/main/resources/json/schedules.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FinalProyectSEAS/src/main/resources/json/ticket.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TicketValidator/src/main/java/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TicketValidator/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TicketValidator/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TicketValidator/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TicketValidator/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TicketValidator/src/main/java/org/example/Main.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 3
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="2fbvW7HjQXyrZnG2lA5rIzlyunp" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -27,9 +75,48 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/Giank/Desktop/FinalProyectTrainSantanderSAS/TicketBuy",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Giank\Desktop\FinalProyectTrainSantanderSAS\TicketBuy\src\main\java\model" />
+      <recent name="C:\Users\Giank\Desktop\FinalProyectTrainSantanderSAS\TicketBuy\src\main\java" />
+      <recent name="C:\Users\Giank\Desktop\FinalProyectTrainSantanderSAS\TicketBuy\src\main\java\model\Service" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SEAS.Main" />
+      <module name="TicketBuy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TicketKieffer" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.mycompany.viewskiefferadd.TicketKieffer" />
+      <module name="TicketBuy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mycompany.viewskiefferadd.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -39,6 +126,8 @@
       <option name="presentableId" value="Default" />
       <updated>1714082620532</updated>
       <workItem from="1714082621563" duration="78000" />
+      <workItem from="1714955249454" duration="7427000" />
+      <workItem from="1714964401630" duration="903000" />
     </task>
     <servers />
   </component>

@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="98e16ff5-b917-41af-bd04-58d4a8d384d1" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/SEAS.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FinalProyectSEAS/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FinalProyectSEAS/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FinalProyectSEAS/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FinalProyectSEAS/.idea/material_theme_project_new.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FinalProyectSEAS/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FinalProyectSEAS/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FinalProyectSEAS/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FinalProyectSEAS/src/main/java/SEAS/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FinalProyectSEAS/src/main/java/SEAS/Model/Domain/Baggage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FinalProyectSEAS/src/main/java/SEAS/Model/Domain/Graph.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FinalProyectSEAS/src/main/java/SEAS/Model/Domain/Passenger.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FinalProyectSEAS/src/main/java/SEAS/Model/Domain/Route.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FinalProyectSEAS/src/main/java/SEAS/Model/Domain/Schedule.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FinalProyectSEAS/src/main/java/SEAS/Model/Domain/Station.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FinalProyectSEAS/src/main/java/SEAS/Model/Domain/Ticket.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FinalProyectSEAS/src/main/java/SEAS/Model/Domain/Train.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FinalProyectSEAS/src/main/java/SEAS/Model/Domain/TrainType.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FinalProyectSEAS/src/main/java/SEAS/Model/Domain/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FinalProyectSEAS/src/main/java/SEAS/Model/Domain/Wagon.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FinalProyectSEAS/src/main/java/SEAS/Model/LoginModel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FinalProyectSEAS/src/main/java/SEAS/Model/Repository/BaggageRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FinalProyectSEAS/src/main/java/SEAS/Model/Repository/PassengerRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FinalProyectSEAS/src/main/java/SEAS/Model/Repository/RouteRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FinalProyectSEAS/src/main/java/SEAS/Model/Repository/ScheduleRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FinalProyectSEAS/src/main/java/SEAS/Model/Repository/StationRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FinalProyectSEAS/src/main/java/SEAS/Model/Repository/TicketRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FinalProyectSEAS/src/main/java/SEAS/Model/Repository/TrainRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FinalProyectSEAS/src/main/java/SEAS/Model/Repository/UserRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FinalProyectSEAS/src/main/java/SEAS/Model/Repository/WagonRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FinalProyectSEAS/src/main/java/SEAS/Model/RoutesModel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FinalProyectSEAS/src/main/java/SEAS/Model/Server/Server.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FinalProyectSEAS/src/main/java/SEAS/Model/Service/ModuleService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FinalProyectSEAS/src/main/java/SEAS/Model/Service/ModuleServiceInterface.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FinalProyectSEAS/src/main/java/SEAS/Model/TrainModel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FinalProyectSEAS/src/main/java/SEAS/Model/UserModel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FinalProyectSEAS/src/main/java/SEAS/Model/shared/FileJsonAdapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FinalProyectSEAS/src/main/java/SEAS/Model/shared/FileJsonInterface.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FinalProyectSEAS/src/main/java/SEAS/controller/HubController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FinalProyectSEAS/src/main/java/SEAS/controller/LoginController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FinalProyectSEAS/src/main/java/SEAS/controller/RouteController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FinalProyectSEAS/src/main/java/SEAS/controller/TrainController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FinalProyectSEAS/src/main/java/SEAS/controller/UserController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FinalProyectSEAS/src/main/java/SEAS/view/HubView.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FinalProyectSEAS/src/main/java/SEAS/view/LoginView.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FinalProyectSEAS/src/main/java/SEAS/view/RoutesView.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FinalProyectSEAS/src/main/java/SEAS/view/TrainView.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FinalProyectSEAS/src/main/java/SEAS/view/UserView.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FinalProyectSEAS/src/main/resources/json/route.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FinalProyectSEAS/src/main/resources/json/schedules.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FinalProyectSEAS/src/main/resources/json/tickets.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FinalProyectSEAS/src/main/resources/json/trains.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FinalProyectSEAS/src/main/resources/json/users.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TicketBuy/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TicketBuy/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TicketBuy/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TicketBuy/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TicketBuy/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TicketBuy/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TicketBuy/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TicketBuy/src/main/java/SEAS/Controller/BuyController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TicketBuy/src/main/java/SEAS/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TicketBuy/src/main/java/SEAS/Model/BuyModel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TicketBuy/src/main/java/SEAS/Model/Domain/Baggage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TicketBuy/src/main/java/SEAS/Model/Domain/Graph.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TicketBuy/src/main/java/SEAS/Model/Domain/Passenger.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TicketBuy/src/main/java/SEAS/Model/Domain/Route.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TicketBuy/src/main/java/SEAS/Model/Domain/Schedule.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TicketBuy/src/main/java/SEAS/Model/Domain/Station.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TicketBuy/src/main/java/SEAS/Model/Domain/Ticket.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TicketBuy/src/main/java/SEAS/Model/Domain/Train.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TicketBuy/src/main/java/SEAS/Model/Domain/TrainType.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TicketBuy/src/main/java/SEAS/Model/Domain/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TicketBuy/src/main/java/SEAS/Model/Domain/Wagon.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TicketBuy/src/main/java/SEAS/Model/Service/ModuleServiceInterface.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TicketBuy/src/main/java/SEAS/View/BuyView.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TicketValidator/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TicketValidator/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TicketValidator/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TicketValidator/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TicketValidator/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TicketValidator/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TicketValidator/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TicketValidator/src/main/java/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TicketValidator/src/main/java/SEAS/Controller/ValidatorController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TicketValidator/src/main/java/SEAS/Model/Domain/Baggage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TicketValidator/src/main/java/SEAS/Model/Domain/Graph.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TicketValidator/src/main/java/SEAS/Model/Domain/Passenger.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TicketValidator/src/main/java/SEAS/Model/Domain/Route.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TicketValidator/src/main/java/SEAS/Model/Domain/Schedule.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TicketValidator/src/main/java/SEAS/Model/Domain/Station.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TicketValidator/src/main/java/SEAS/Model/Domain/Ticket.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TicketValidator/src/main/java/SEAS/Model/Domain/Train.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TicketValidator/src/main/java/SEAS/Model/Domain/TrainType.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TicketValidator/src/main/java/SEAS/Model/Domain/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TicketValidator/src/main/java/SEAS/Model/Domain/Wagon.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TicketValidator/src/main/java/SEAS/Model/Service/ModuleServiceInterface.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TicketValidator/src/main/java/SEAS/Model/ValidatorModel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TicketValidator/src/main/java/SEAS/View/ValidatorView.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 8
+}]]></component>
+  <component name="ProjectId" id="2g4qc0oDOuAbmt3cjy6r2Y4WvmR" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/Giank/Desktop/SEAS-master",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="98e16ff5-b917-41af-bd04-58d4a8d384d1" name="Changes" comment="" />
+      <created>1714967274080</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1714967274080</updated>
+      <workItem from="1714967277554" duration="34000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

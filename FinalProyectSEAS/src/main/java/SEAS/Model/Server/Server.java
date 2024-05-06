@@ -1,5 +1,7 @@
 package SEAS.Model.Server;
 
+import SEAS.Model.Service.ModuleService;
+
 import java.net.MalformedURLException;
 import java.rmi.Naming;
 import java.rmi.Remote;
@@ -14,6 +16,14 @@ public class Server {
     private final String url;
     private final String serviceName;
     private final Remote service;
+    private static Server server;
+
+    public static Server getInstanceOf() throws RemoteException {
+        if (server == null){
+            server = new Server("192.168.1.22", "1099", "moduleService", new ModuleService());
+        }
+        return server;
+    }
 
     public Server(String ip, String port, String serviceName, Remote service) {
         this.ip = ip;

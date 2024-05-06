@@ -47,10 +47,10 @@ public class UserRepository {
         return false;
     }
 
-    public User getUser(String id){
+    public User getUser(String username){
         List<User> users = fileJsonAdapter.getObjects(path, User[].class);
         for (User user : users) {
-            if (user.getID().equals(id)) {
+            if (user.getUsername().equals(username)) {
                 return user;
             }
         }

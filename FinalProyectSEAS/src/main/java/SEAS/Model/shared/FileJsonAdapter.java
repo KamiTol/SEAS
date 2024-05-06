@@ -17,7 +17,6 @@ public class FileJsonAdapter<E> implements FileJsonInterface<E> {
     private Object fileWriterLock;
 
     private FileJsonAdapter() {
-
         this.fileWriterLock = new Object();
     }
 
